@@ -1,0 +1,21 @@
+{
+    "name": "Seidemann-Web/phpdeployer-typo3-console",
+    "description": "Deployer recipes for TYPO3 extension typo3_console",
+    "version": "0.1.0",
+    "type": "library",
+    "keywords": [
+        "typo3",
+        "cli",
+        "deployer",
+        "continuous integration",
+        "continuous delivery"
+    ],
+    "homepage": "https://github.com/Seidemann-Web/phpdeployer-typo3-console",
+    "authors": [
+        {
+            "name": "Olaf Hoffmann",
+            "email": "o.hoffmann@seidemann-web.com",
+            "role": "Developer"
+        }
+    ]
+}
